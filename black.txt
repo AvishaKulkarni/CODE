@@ -1,0 +1,10 @@
+commands to navigate:
+cd && cd ..=> to navigate back and forth
+mkdir => to directory(folder)
+
+//staging area working
+rm => to remove files permanentaly
+rm -rf => to remove folder permanentaly
+touch => to creat files
+start . => to open file explorer
+pwd => to check current working directory
