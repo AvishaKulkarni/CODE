@@ -8,3 +8,16 @@ rm -rf => to remove folder permanentaly
 touch => to creat files
 start . => to open file explorer
 pwd => to check current working directory
+
+//git related commands
+git statusgi
+git init
+git config user.name
+git add <file name>
+git add .  => to add all the files
+git branch => to check all existing branches
+git branch <branch name>  => to create a new branch
+git switch <branch name> => to switch between branches
+git commit -m "message"
+git log => to check the log
+
